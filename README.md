@@ -3,6 +3,18 @@
 ## The Project
 From data including ceramic glaze chemical makeup, RGB color, opacity, and firing temperature, train various models to predict properties given chemical makeup. This information would be extremely useful to potters interested in glaze design. 
 
+[Here](https://github.com/ilanazim/Ceramic_Glaze_Design/blob/master/glaze_exp.ipynb) is where all my work has taken place so far. 
+____________________________________________
+Dependencies:
+* `pandas`
+* `re`
+* `sklearn`
+* `eli5`
+* `matplotlib`
+* `colorsys`
+* `PIL.Image`
+
+
 ## Work in Progress
 
 Currently working on a multiclass regressor to predict color given glaze chemistry.
