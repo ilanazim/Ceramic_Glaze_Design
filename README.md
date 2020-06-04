@@ -5,6 +5,8 @@ From data including ceramic glaze chemical makeup, RGB color, opacity, and firin
 
 [Here](https://github.com/ilanazim/Ceramic_Glaze_Design/blob/master/glaze_exp.ipynb) is where all my work has taken place so far. 
 
+Please feel free to [reach out to me via LinkedIn](https://www.linkedin.com/in/ilanaz/) with questions! 
+
 ## Work in Progress
 
 Currently working on a multiclass regressor to predict color given glaze chemistry.
